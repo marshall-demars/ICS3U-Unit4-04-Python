@@ -9,7 +9,6 @@ import random
 
 def main():
     # This program sees if you guess the right number using while true
-    # loop_counter = 0
 
     # Input, Process and Output
     while True:
