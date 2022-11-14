@@ -12,7 +12,7 @@ def main():
 
     # Input, Process and Output
     while True:
-        guess_as_string = input("Enter a whole number between 0-9: ")
+        guess_as_string = input("\nEnter a whole number between 0-9: ")
 
         try:
             guess_as_int = int(guess_as_string)
